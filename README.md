@@ -1,18 +1,18 @@
-# git-test # 📊 Project Title
+# git-test #  Project Title
 
-## 📁 Overview
+##  Overview
 Brief description of the project, its objective, and business or technical context.
 
-## ⚙️ Tech Stack
+##  Tech Stack
 List of languages, tools, and frameworks used (e.g., Python, Pandas, Power BI, SQL, SAP).
 
-## 📈 Data & Methods
+##  Data & Methods
 Explain dataset origin, structure, and the methodology or analysis performed.
 
-## 🧩 Key Insights
+##  Key Insights
 Highlight the main findings or results from your analysis.
 
-## 📂 Repository Structure
+##  Repository Structure
 project-folder/
 ├── data/           # Datasets (if public)
 ├── scripts/        # Python or SQL scripts
